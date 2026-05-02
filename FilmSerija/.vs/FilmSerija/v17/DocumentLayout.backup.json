@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|c:\\users\\korisnik\\desktop\\filmserija\\filmserija\\content\\mojstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\content\\mojstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|c:\\users\\korisnik\\desktop\\filmserija\\filmserija\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\app_data\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_data\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\app_data\\series.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_data\\series.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FilmSerija||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\app_data\\films.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\app_data\\films.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\serija\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\serija\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\serija\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\serija\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\serija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\serija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\serija\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\serija\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\views\\serija\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\views\\serija\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\services\\serijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\services\\serijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\controllers\\serijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\controllers\\serijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\services\\korisnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\services\\korisnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|C:\\Users\\Korisnik\\Desktop\\FilmSerija\\filmserija\\models\\serija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|solutionrelative:filmserija\\models\\serija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707F954C-5044-4240-8FFB-8FE51D809B05}|FilmSerija\\FilmSerija.csproj|c:\\users\\korisnik\\desktop\\filmserija\\filmserija\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|ac62a6e4-8384-4c18-b641-ac7edd81fee3"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "FilmSerija\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T10:39:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:56:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmSerija",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\FilmSerija.csproj",
+              "RelativeDocumentMoniker": "FilmSerija\\FilmSerija.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\FilmSerija.csproj*",
+              "RelativeToolTip": "FilmSerija\\FilmSerija.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-01T10:50:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "series.xml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\series.xml",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Data\\series.xml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\series.xml",
+              "RelativeToolTip": "FilmSerija\\App_Data\\series.xml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-01T10:04:11.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "users.xml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\users.xml",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Data\\users.xml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\users.xml",
+              "RelativeToolTip": "FilmSerija\\App_Data\\users.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-01T10:04:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Create.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Create.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:57:47.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Details.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Serija\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Details.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Serija\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:02:01.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "films.xml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\films.xml",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Data\\films.xml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Data\\films.xml",
+              "RelativeToolTip": "FilmSerija\\App_Data\\films.xml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-01T10:03:52.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FilmSerija\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:16:11.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mojstyle.css",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Content\\mojstyle.css",
+              "RelativeDocumentMoniker": "FilmSerija\\Content\\mojstyle.css",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Content\\mojstyle.css",
+              "RelativeToolTip": "FilmSerija\\Content\\mojstyle.css",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-01T10:57:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "FilmSerija\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:50:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Delete.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:59:44.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Details.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Details.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:59:27.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:54:51.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\App_Start\\BundleConfig.cs*",
+              "RelativeToolTip": "FilmSerija\\App_Start\\BundleConfig.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:16:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Serija\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Delete.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Serija\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:02:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:05:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Edit.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:58:59.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Models\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Korisnik.cs",
+              "RelativeToolTip": "FilmSerija\\Models\\Korisnik.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:48:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:03:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:55:18.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FilmSerija\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:49:28.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "FilmSerija\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:51:26.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:54:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Serija\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Index.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Serija\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:00:40.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:05:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Film\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Film\\Gallery.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Film\\Gallery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:58:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Create.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Serija\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Create.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Serija\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:01:08.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FilmSerija\\Views\\Serija\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Views\\Serija\\Edit.cshtml",
+              "RelativeToolTip": "FilmSerija\\Views\\Serija\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:01:29.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Film.cs",
+              "RelativeToolTip": "FilmSerija\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:48:42.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SerijaService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\SerijaService.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Services\\SerijaService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\SerijaService.cs",
+              "RelativeToolTip": "FilmSerija\\Services\\SerijaService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:09:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SerijaController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\SerijaController.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Controllers\\SerijaController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Controllers\\SerijaController.cs",
+              "RelativeToolTip": "FilmSerija\\Controllers\\SerijaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:52:09.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KorisnikService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\KorisnikService.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Services\\KorisnikService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\KorisnikService.cs",
+              "RelativeToolTip": "FilmSerija\\Services\\KorisnikService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:09:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\FilmService.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Services\\FilmService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Services\\FilmService.cs",
+              "RelativeToolTip": "FilmSerija\\Services\\FilmService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:07:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Global.asax.cs",
+              "RelativeToolTip": "FilmSerija\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:17:18.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Serija.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Serija.cs",
+              "RelativeDocumentMoniker": "FilmSerija\\Models\\Serija.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\FilmSerija\\FilmSerija\\Models\\Serija.cs",
+              "RelativeToolTip": "FilmSerija\\Models\\Serija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:49:06.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

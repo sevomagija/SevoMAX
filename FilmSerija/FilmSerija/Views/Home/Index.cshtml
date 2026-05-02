@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Početna";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="home-hero">
+    <h1>Dobrodošli u svet kinematografije</h1>
+    <p>Otkrijte najnovije blokbastere, kultne serije i skrivene dragulje na jednom mestu.</p>
+
+    @if (Session["Korisnik"] == null)
+    {
+        <div class="hero-actions">
+            <a href="@Url.Action("Login", "Account")" class="btn-primary">Započni odmah</a>
+            <a href="@Url.Action("Register", "Account")" class="btn-outline">Napravi nalog</a>
+        </div>
+    }
+    else
+    {
+        <p class="welcome-msg">Pozdrav, <strong>@Session["Korisnik"]</strong>! Drago nam je što si ponovo tu.</p>
+    }
+</div>
+
+<div class="home-grid">
+    <div class="home-card">
+        <div class="card-icon">🎬</div>
+        <h3>Filmovi</h3>
+        <p>Istražite našu bogatu bazu filmova svih žanrova.</p>
+        @Html.ActionLink("Pregledaj filmove", "Index", "Film", null, new { @class = "card-link" })
+    </div>
+
+    <div class="home-card">
+        <div class="card-icon">📺</div>
+        <h3>Serije</h3>
+        <p>Pratite omiljene serijale i ne propustite nijednu epizodu.</p>
+        @Html.ActionLink("Pregledaj serije", "Index", "Serija", null, new { @class = "card-link" })
+    </div>
+
+    <div class="home-card">
+        <div class="card-icon">🖼️</div>
+        <h3>Galerija</h3>
+        <p>Uživajte u vizuelnom prikazu najpopularnijih naslova.</p>
+        @Html.ActionLink("Otvori galeriju", "Gallery", "Film", null, new { @class = "card-link" })
+    </div>
+</div>

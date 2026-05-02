@@ -1,0 +1,45 @@
+﻿@model IEnumerable<FilmSerija.Models.Serija>
+@{
+    ViewBag.Title = "Lista serija";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="index-header">
+    <h2>Popularne Serije</h2>
+    @Html.ActionLink("+ Dodaj novu seriju", "Create", null, new { @class = "btn-primary add-btn" })
+</div>
+
+<div class="movie-grid">
+    @foreach (var serija in Model)
+    {
+        <div class="movie-card">
+            <div class="card-image">
+                @if (!string.IsNullOrEmpty(serija.PutanjaSlike))
+                {
+                    <img src="@serija.PutanjaSlike" alt="@serija.Naslov" />
+                }
+                else
+                {
+                    <div class="no-image">Nema slike</div>
+                }
+      
+                <div class="season-badge">@serija.BrojSezona Sez.</div>
+
+                <div class="card-overlay">
+                    @Html.ActionLink("Detalji", "Details", "Serija", new { id = serija.Id }, new { @class = "btn-details" })
+                </div>
+            </div>
+
+            <div class="card-content">
+                <span class="movie-year">@serija.Godina</span>
+                <h3>@serija.Naslov</h3>
+                <p class="movie-genre">@serija.Zanr</p>
+
+                <div class="card-actions">
+                    @Html.ActionLink("Izmeni", "Edit", "Serija", new { id = serija.Id }, new { @class = "action-link edit" })
+                    @Html.ActionLink("Obriši", "Delete", "Serija", new { id = serija.Id }, new { @class = "action-link delete" })
+                </div>
+            </div>
+        </div>
+    }
+</div>

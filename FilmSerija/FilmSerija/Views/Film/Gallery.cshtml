@@ -1,0 +1,22 @@
+﻿@model IEnumerable<FilmSerija.Models.Film>
+
+@{
+    ViewBag.Title = "Galerija filmova";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Galerija filmova</h2>
+
+<div style="display:flex; flex-wrap:wrap;">
+    @foreach (var film in Model)
+    {
+        <div style="margin:10px; text-align:center;">
+            @if (!string.IsNullOrEmpty(film.PutanjaSlike))
+            {
+                <img src="@film.PutanjaSlike" width="150" /><br />
+            }
+            <strong>@film.Naslov</strong><br />
+            <span>@film.Zanr (@film.Godina)</span>
+        </div>
+    }
+</div>

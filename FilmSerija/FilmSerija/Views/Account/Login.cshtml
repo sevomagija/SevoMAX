@@ -1,0 +1,29 @@
+﻿@model FilmSerija.Models.Korisnik
+
+@{
+    ViewBag.Title = "Prijava";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Prijava</h2>
+
+@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <div>
+        @Html.LabelFor(m => m.KorisnickoIme)
+        @Html.TextBoxFor(m => m.KorisnickoIme)
+        @Html.ValidationMessageFor(m => m.KorisnickoIme)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Lozinka)
+        @Html.PasswordFor(m => m.Lozinka)
+        @Html.ValidationMessageFor(m => m.Lozinka)
+    </div>
+
+    <button type="submit">Prijavi se</button>
+}
+
+

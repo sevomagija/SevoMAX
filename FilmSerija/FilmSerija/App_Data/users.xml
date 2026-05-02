@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <Korisnik>
+    <Id>1</Id>
+    <KorisnickoIme>admin</KorisnickoIme>
+    <Lozinka>admin123</Lozinka>
+    <Email>admin@example.com</Email>
+    <PunoIme>Administrator</PunoIme>
+  </Korisnik>
+  <Korisnik>
+    <Id>2</Id>
+    <KorisnickoIme>marko</KorisnickoIme>
+    <Lozinka>marko123</Lozinka>
+    <Email>marko@example.com</Email>
+    <PunoIme>Marko Marković</PunoIme>
+  </Korisnik>
+  <Korisnik>
+    <Id>3</Id>
+    <KorisnickoIme>Vukasin</KorisnickoIme>
+    <Lozinka>1234</Lozinka>
+    <Email>vukasinsev004@gmail.com</Email>
+    <PunoIme>Vukasin Sevo</PunoIme>
+  </Korisnik>
+</Users>

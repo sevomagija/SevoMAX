@@ -1,0 +1,38 @@
+﻿@model FilmSerija.Models.Korisnik
+
+@{
+    ViewBag.Title = "Registracija";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Registracija</h2>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <div>
+        @Html.LabelFor(m => m.KorisnickoIme)
+        @Html.TextBoxFor(m => m.KorisnickoIme)
+        @Html.ValidationMessageFor(m => m.KorisnickoIme)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Lozinka)
+        @Html.PasswordFor(m => m.Lozinka)
+        @Html.ValidationMessageFor(m => m.Lozinka)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.PunoIme)
+        @Html.TextBoxFor(m => m.PunoIme)
+    </div>
+
+    <button type="submit">Registruj se</button>
+}

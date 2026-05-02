@@ -1,0 +1,31 @@
+﻿@model FilmSerija.Models.Korisnik
+
+@{
+    ViewBag.Title = "Profil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Moj profil</h2>
+
+@using (Html.BeginForm("Profile", "Account", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <div>
+        @Html.LabelFor(m => m.KorisnickoIme)
+        @Html.TextBoxFor(m => m.KorisnickoIme, new { @readonly = "readonly" })
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.PunoIme)
+        @Html.TextBoxFor(m => m.PunoIme)
+    </div>
+
+    <button type="submit">Sačuvaj izmene</button>
+}

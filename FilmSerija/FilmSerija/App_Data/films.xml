@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Films>
+  <Film>
+    <Id>1</Id>
+    <Naslov>Matrix</Naslov>
+    <Zanr>Akcija</Zanr>
+    <Godina>1999</Godina>
+    <Reziser>Lana Wachowski</Reziser>
+    <PutanjaSlike>/Content/Slike/matrix.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>2</Id>
+    <Naslov>Inception</Naslov>
+    <Zanr>SF</Zanr>
+    <Godina>2010</Godina>
+    <Reziser>Christopher Nolan</Reziser>
+    <PutanjaSlike>/Content/Slike/inception.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>3</Id>
+    <Naslov>The Dark Knight</Naslov>
+    <Zanr>Akcija</Zanr>
+    <Godina>2008</Godina>
+    <Reziser>Christopher Nolan</Reziser>
+    <PutanjaSlike>/Content/Slike/dark_knight.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>4</Id>
+    <Naslov>Pulp Fiction</Naslov>
+    <Zanr>Krimi</Zanr>
+    <Godina>1994</Godina>
+    <Reziser>Quentin Tarantino</Reziser>
+    <PutanjaSlike>/Content/Slike/pulp_fiction.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>5</Id>
+    <Naslov>Interstellar</Naslov>
+    <Zanr>SF</Zanr>
+    <Godina>2014</Godina>
+    <Reziser>Christopher Nolan</Reziser>
+    <PutanjaSlike>/Content/Slike/interstellar.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>6</Id>
+    <Naslov>The Godfather</Naslov>
+    <Zanr>Krimi</Zanr>
+    <Godina>1972</Godina>
+    <Reziser>Francis Ford Coppola</Reziser>
+    <PutanjaSlike>/Content/Slike/godfather.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>7</Id>
+    <Naslov>Fight Club</Naslov>
+    <Zanr>Drama</Zanr>
+    <Godina>1999</Godina>
+    <Reziser>David Fincher</Reziser>
+    <PutanjaSlike>/Content/Slike/fight_club.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>8</Id>
+    <Naslov>Gladiator</Naslov>
+    <Zanr>Akcija</Zanr>
+    <Godina>2000</Godina>
+    <Reziser>Ridley Scott</Reziser>
+    <PutanjaSlike>/Content/Slike/gladiator.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>9</Id>
+    <Naslov>Snatch</Naslov>
+    <Zanr>Krimi</Zanr>
+    <Godina>2000</Godina>
+    <Reziser>Guy Ritchie</Reziser>
+    <PutanjaSlike>/Content/Slike/snatch.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>10</Id>
+    <Naslov>American History X</Naslov>
+    <Zanr>Drama</Zanr>
+    <Godina>1998</Godina>
+    <Reziser>Tony Kaye</Reziser>
+    <PutanjaSlike>/Content/Slike/american_history_x.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>11</Id>
+    <Naslov>The Green Mile</Naslov>
+    <Zanr>Drama</Zanr>
+    <Godina>1999</Godina>
+    <Reziser>Frank Darabont</Reziser>
+    <PutanjaSlike>/Content/Slike/green_mile.jpg</PutanjaSlike>
+  </Film>
+  <Film>
+    <Id>12</Id>
+    <Naslov>The Shawshank Redemption</Naslov>
+    <Zanr>Drama</Zanr>
+    <Godina>1994</Godina>
+    <Reziser>Frank Darabont</Reziser>
+    <PutanjaSlike>/Content/Slike/shawshank.jpg</PutanjaSlike>
+  </Film>
+</Films>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Katalog filmova i serija</title>
+    <link rel="stylesheet" href="~/Content/mojstyle.css" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="@Url.Action("Index", "Home")" class="logo">ŠEVO<span>MAX</span></a>
+            <ul>
+                <li>@Html.ActionLink("Početna", "Index", "Home")</li>
+                <li>@Html.ActionLink("Filmovi", "Index", "Film")</li>
+                <li>@Html.ActionLink("Serije", "Index", "Serija")</li>
+                <li>@Html.ActionLink("Galerija", "Gallery", "Film")</li>
+                @if (Session["Korisnik"] == null)
+                {
+                    <li class="auth-link">@Html.ActionLink("Prijava", "Login", "Account")</li>
+                    <li class="auth-link register">@Html.ActionLink("Registracija", "Register", "Account")</li>
+                }
+                else
+                {
+                    <li>@Html.ActionLink("Moj profil", "Profile", "Account")</li>
+                    <li class="auth-link">@Html.ActionLink("Odjava", "Logout", "Account")</li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <footer class="main-footer">
+        <p>&copy; @DateTime.Now.Year - Katalog filmova i serija | Vukašin Ševo</p>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

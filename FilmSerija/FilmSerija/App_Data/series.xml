@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Series>
+  <Serija>
+    <Id>1</Id>
+    <Naslov>Vikings</Naslov>
+    <Zanr>Istorijska drama</Zanr>
+    <Godina>2013</Godina>
+    <BrojSezona>6</BrojSezona>
+    <PutanjaSlike>/Content/Slike/vikings.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>2</Id>
+    <Naslov>Breaking Bad</Naslov>
+    <Zanr>Krimi</Zanr>
+    <Godina>2008</Godina>
+    <BrojSezona>5</BrojSezona>
+    <PutanjaSlike>/Content/Slike/breakingbad.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>3</Id>
+    <Naslov>The Sopranos</Naslov>
+    <Zanr>Krimi drama</Zanr>
+    <Godina>1999</Godina>
+    <BrojSezona>6</BrojSezona>
+    <PutanjaSlike>/Content/Slike/sopranos.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>4</Id>
+    <Naslov>SpongeBob SquarePants</Naslov>
+    <Zanr>Animirani</Zanr>
+    <Godina>1999</Godina>
+    <BrojSezona>14</BrojSezona>
+    <PutanjaSlike>/Content/Slike/spongebob.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>5</Id>
+    <Naslov>Two and a Half Men</Naslov>
+    <Zanr>Sitkom</Zanr>
+    <Godina>2003</Godina>
+    <BrojSezona>12</BrojSezona>
+    <PutanjaSlike>/Content/Slike/twoandahalfmen.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>7</Id>
+    <Naslov>The Wire</Naslov>
+    <Zanr>Krimi drama</Zanr>
+    <Godina>2002</Godina>
+    <BrojSezona>5</BrojSezona>
+    <PutanjaSlike>/Content/Slike/thewire.jpg</PutanjaSlike>
+  </Serija>
+  <Serija>
+    <Id>8</Id>
+    <Naslov>Friends</Naslov>
+    <Zanr>Sitkom</Zanr>
+    <Godina>1998</Godina>
+    <BrojSezona>12</BrojSezona>
+    <PutanjaSlike>/Content/Slike/friends.jpg</PutanjaSlike>
+  </Serija>
+</Series>

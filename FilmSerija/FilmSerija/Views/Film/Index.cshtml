@@ -1,0 +1,72 @@
+﻿@model IEnumerable<FilmSerija.Models.Film>
+
+@{
+    ViewBag.Title = "Lista filmova";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="index-header">
+    <h2>Istraži Filmove</h2>
+    @Html.ActionLink("+ Dodaj novi film", "Create", null, new { @class = "btn-primary add-btn" })
+</div>
+
+
+<div class="filter-section">
+    @using (Html.BeginForm("Index", "Film", FormMethod.Get, new { @class = "filter-form" }))
+    {
+        <div class="filter-group">
+            <label>Naslov</label>
+            @Html.TextBox("pretraga", null, new { placeholder = "Pretraži..." })
+        </div>
+
+        <div class="filter-group">
+            <label>Žanr</label>
+            @Html.TextBox("zanr", null, new { placeholder = "npr. Akcija" })
+        </div>
+
+        <div class="filter-group">
+            <label>Sortiraj</label>
+            <select name="sortiranje">
+                <option value="naslov">Naslov A-Z</option>
+                <option value="naslov_desc">Naslov Z-A</option>
+                <option value="godina">Godina</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn-primary search-btn">Primeni</button>
+    }
+</div>
+
+
+<div class="movie-grid">
+    @foreach (var film in Model)
+    {
+        <div class="movie-card">
+            <div class="card-image">
+                @if (!string.IsNullOrEmpty(film.PutanjaSlike))
+                {
+                    <img src="@film.PutanjaSlike" alt="@film.Naslov" class="img-responsive" />
+                }
+                else
+                {
+                    <div class="no-image">Nema slike</div>
+                }
+                <div class="card-overlay">
+                    @Html.ActionLink("Detalji", "Details", "Film", new { id = film.Id }, new { @class = "btn-details" })
+                </div>
+            </div>
+
+            <div class="card-content">
+                <span class="movie-year">@film.Godina</span>
+                <h3>@film.Naslov</h3>
+                <p class="movie-genre">@film.Zanr</p>
+                <p class="movie-director">Režija: @film.Reziser</p>
+
+                <div class="card-actions">
+                    @Html.ActionLink("Izmeni", "Edit", "Film", new { id = film.Id }, new { @class = "action-link edit" })
+                    @Html.ActionLink("Obriši", "Delete", "Film", new { id = film.Id }, new { @class = "action-link delete" })
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,44 @@
+﻿@model FilmSerija.Models.Serija
+
+@{
+    ViewBag.Title = "Dodaj seriju";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Dodaj seriju</h2>
+
+@using (Html.BeginForm("Create", "Serija", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(true)
+
+    <div>
+        @Html.LabelFor(m => m.Naslov)
+        @Html.TextBoxFor(m => m.Naslov)
+        @Html.ValidationMessageFor(m => m.Naslov)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Zanr)
+        @Html.TextBoxFor(m => m.Zanr)
+        @Html.ValidationMessageFor(m => m.Zanr)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Godina)
+        @Html.TextBoxFor(m => m.Godina)
+        @Html.ValidationMessageFor(m => m.Godina)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.BrojSezona)
+        @Html.TextBoxFor(m => m.BrojSezona)
+        @Html.ValidationMessageFor(m => m.BrojSezona)
+    </div>
+
+    <div>
+        <label>Slika (poster)</label>
+        <input type="file" name="slika" />
+    </div>
+
+    <button type="submit">Sačuvaj</button>
+}

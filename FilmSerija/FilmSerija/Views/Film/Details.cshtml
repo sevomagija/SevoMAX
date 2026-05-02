@@ -1,0 +1,24 @@
+﻿@model FilmSerija.Models.Film
+@{
+    ViewBag.Title = "Detalji o filmu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalji o filmu</h2>
+
+<p><strong>Naslov:</strong> @Model.Naslov</p>
+<p><strong>Žanr:</strong> @Model.Zanr</p>
+<p><strong>Godina:</strong> @Model.Godina</p>
+<p><strong>Režiser:</strong> @Model.Reziser</p>
+
+@if (!string.IsNullOrEmpty(Model.PutanjaSlike))
+{
+    <p><strong>Poster:</strong></p>
+    <img src="@Model.PutanjaSlike" width="200" />
+}
+
+<p>
+    @Html.ActionLink("Nazad na listu", "Index") |
+    @Html.ActionLink("Izmeni", "Edit","Film", new { id = Model.Id }) |
+    @Html.ActionLink("Obriši", "Delete","Film", new { id = Model.Id })
+</p>

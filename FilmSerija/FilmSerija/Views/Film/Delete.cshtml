@@ -1,0 +1,34 @@
+﻿@model FilmSerija.Models.Film
+
+@{
+    ViewBag.Title = "Obriši film";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Obriši film</h2>
+
+<div class="delete-container">
+    <p>Da li ste sigurni da želite da obrišete ovaj film?</p>
+
+    <div class="delete-info">
+        <p><strong>@Model.Naslov</strong> (@Model.Godina) - @Model.Zanr</p>
+
+        @if (!string.IsNullOrEmpty(Model.PutanjaSlike))
+        {
+            <div class="card-image" style="width: 200px; border-radius: 8px; overflow: hidden; margin: 20px 0;">
+                <img src="@Model.PutanjaSlike" style="width: 100%; display: block;" />
+            </div>
+        }
+    </div>
+
+    @using (Html.BeginForm("DeleteConfirmed", "Film", FormMethod.Post))
+    {
+        @Html.HiddenFor(m => m.Id)
+        <div class="action-buttons">
+            <button type="submit" class="action-link delete" style="border: none; cursor: pointer; min-width: 120px;">
+                Obriši
+            </button>
+            @Html.ActionLink("Odustani", "Index", null, new { @class = "action-link edit", @style = "min-width: 120px;" })
+        </div>
+    }
+</div>

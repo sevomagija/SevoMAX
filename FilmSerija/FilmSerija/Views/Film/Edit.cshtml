@@ -1,0 +1,50 @@
+﻿@model FilmSerija.Models.Film
+
+@{
+    ViewBag.Title = "Izmeni film";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Izmeni film</h2>
+
+@using (Html.BeginForm("Edit", "Film", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(true)
+
+    @Html.HiddenFor(m => m.Id)
+
+    <div>
+        @Html.LabelFor(m => m.Naslov)
+        @Html.TextBoxFor(m => m.Naslov)
+        @Html.ValidationMessageFor(m => m.Naslov)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Zanr)
+        @Html.TextBoxFor(m => m.Zanr)
+        @Html.ValidationMessageFor(m => m.Zanr)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Godina)
+        @Html.TextBoxFor(m => m.Godina)
+        @Html.ValidationMessageFor(m => m.Godina)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Reziser)
+        @Html.TextBoxFor(m => m.Reziser)
+    </div>
+
+    <div>
+        <label>Nova slika (poster)</label>
+        <input type="file" name="slika" />
+        @if (!string.IsNullOrEmpty(Model.PutanjaSlike))
+        {
+            <p>Trenutna slika:</p>
+            <img src="@Model.PutanjaSlike" width="100" />
+        }
+    </div>
+
+    <button type="submit">Sačuvaj izmene</button>
+}
