@@ -56,7 +56,7 @@ Preduslovi: Instaliran Visual Studio 2019/2022 i .NET Framework 4.7.2.
 Kloniranje:
 
 Bash
-git clone [https://github.com/tvoj-username/FilmSerija.git](https://github.com/sevomagija/SevoMAX.git)
+git clone [https://github.com/sevomagija/SevoMAX.git](https://github.com/sevomagija/SevoMAX.git)
 Pokretanje: Otvorite FilmSerija.sln, sačekajte da Visual Studio učita zavisnosti i pritisnite F5.
 Napomena: Nije potrebno podešavanje baze podataka, sve radi "out-of-the-box".
 
